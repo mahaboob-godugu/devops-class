@@ -52,7 +52,13 @@ Now start the daemon with the following command.
 sudo systemctl start jenkins-agent.service
 
 
-####
+#############
+
+Sonar installation:
+
+https://medium.com/@rahmanazhar/sonarqube-installation-on-ubuntu-20-04-4a47255ffb47
+
+==================================
 
 
 
